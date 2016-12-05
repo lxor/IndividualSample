@@ -1,9 +1,10 @@
-package com.example.liuxiang.mysample;
+package com.example.liuxiang.mysample.view;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.example.liuxiang.mysample.R;
+
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
